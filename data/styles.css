@@ -75,6 +75,15 @@
 }
 .flow_shape {
 }
+._连接线 {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .image1 {
   color:#000000;
 }
@@ -96,4 +105,38 @@
 .line {
 }
 .icon1 {
+}
+.link_button {
+  color:#169BD5;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.ellipse {
+}
+._形状 {
+}
+._垂直线 {
+}
+._水平线 {
+}
+.marker {
+  color:#FFFFFF;
+}
+.shape1 {
 }
